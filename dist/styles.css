@@ -1,0 +1,23 @@
+/*!*******************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/style.scss ***!
+  \*******************************************************************************************************************************************************************************/
+@font-face {
+  font-family: "Neue Montreal Regular";
+  src: url(cf544aa8cefb19191923.woff) format("woff");
+}
+@font-face {
+  font-family: "Neue Montreal Light";
+  src: url(2636b343e7d71162e663.woff) format("woff");
+}
+body {
+  background: #000;
+}
+
+.hello {
+  color: red;
+  font-size: 40px;
+  /* background: url('./fav1.png'); */
+  font-family: "Neue Montreal Regular";
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGVzLmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQTtFQUNJO0VBQ0E7QUFDSjtBQUVBO0VBQ0k7RUFDQTtBQUFKO0FBR0E7RUFDSTtBQURKOztBQUlBO0VBQ0k7RUFDQTtFQUNBO0VBQ0E7QUFESixDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vYm9pbGVycGxhdGUtd2VicGFjay8uL3NyYy9zdHlsZS5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIkBmb250LWZhY2Uge1xyXG4gICAgZm9udC1mYW1pbHk6IFwiTmV1ZSBNb250cmVhbCBSZWd1bGFyXCI7XHJcbiAgICBzcmM6IHVybChcIi4vTmV1ZU1vbnRyZWFsLVJlZ3VsYXIud29mZlwiKSBmb3JtYXQoXCJ3b2ZmXCIpO1xyXG59XHJcblxyXG5AZm9udC1mYWNlIHtcclxuICAgIGZvbnQtZmFtaWx5OiBcIk5ldWUgTW9udHJlYWwgTGlnaHRcIjtcclxuICAgIHNyYzogdXJsKFwiLi9OZXVlTW9udHJlYWwtTGlnaHQud29mZlwiKSBmb3JtYXQoXCJ3b2ZmXCIpO1xyXG59XHJcblxyXG5ib2R5IHtcclxuICAgIGJhY2tncm91bmQ6ICMwMDA7XHJcbn1cclxuXHJcbi5oZWxsbyB7XHJcbiAgICBjb2xvcjogcmVkO1xyXG4gICAgZm9udC1zaXplOiA0MHB4O1xyXG4gICAgLyogYmFja2dyb3VuZDogdXJsKCcuL2ZhdjEucG5nJyk7ICovXHJcbiAgICBmb250LWZhbWlseTogXCJOZXVlIE1vbnRyZWFsIFJlZ3VsYXJcIjtcclxufSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/

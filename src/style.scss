@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Neue Montreal Regular";
+    src: url("./NeueMontreal-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Neue Montreal Light";
+    src: url("./NeueMontreal-Light.woff") format("woff");
+}
+
+body {
+    background: #000;
+}
+
+.hello {
+    color: red;
+    font-size: 40px;
+    /* background: url('./fav1.png'); */
+    font-family: "Neue Montreal Regular";
+}
